@@ -15,8 +15,8 @@
             background-color: #1a237e;
             color: white;
             padding: 20px 40px;
-   …
-[20:19, 14/5/2025] CHATGPT: background-color: #1a237e;
+   ...
+            background-color: #1a237e;
             color: white;
             text-align: center;
             padding: 20px;
