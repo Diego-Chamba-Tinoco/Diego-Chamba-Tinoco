@@ -1,4 +1,4 @@
--[20:19, 14/5/2025] CHATGPT: ```html
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
