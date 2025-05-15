@@ -45,7 +45,7 @@
 <section id="sobre">
     <h2>¿Quiénes somos?</h2>
     <p>Somos un consorcio de abogados con sede en Ecuador, especializados en derecho de familial,  laboral y administrativo. Nuestra misión es brindar asesoría jurídica de calidad…
-[20:19, 14/5/2025] CHATGPT: <img src="abogado1.jpg" alt="Abogado 1">
+<img src="abogado1.jpg" alt="Abogado 1">
     <img src="abogado2.jpg" alt="Abogado 2">
     <img src="abogado3.jpg" alt="Abogado 3">
 </section>
