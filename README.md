@@ -1,38 +1,38 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consorcio de Abogados DCH</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-        }
-        header {
-            background-color: #1a237e;
-            color: white;
-            padding: 20px 40px;
-   ...
-            background-color: #1a237e;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        .team img {
-            width: 100px;
-            border-radius: 50%;
-            margin: 10px;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Consorcio de Abogados DCH</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f5f5f5;
+}
+header {
+background-color: #1a237e;
+color: white;
+padding: 20px 40px;
+...
+background-color: #1a237e;
+color: white;
+text-align: center;
+padding: 20px;
+}
+.team img {
+width: 100px;
+border-radius: 50%;
+margin: 10px;
+}
+</style>
 </head>
 <body>
 
 <header>
-    <h1>Consorcio de Abogados DCH</h1>
-    <p>Defendiendo tus derechos con integridad y compromiso</p>
+<h1>Consorcio de Abogados DCH</h1>
+<p>Defendiendo tus derechos con integridad y compromiso</p>
 </header>
 
 <nav>
